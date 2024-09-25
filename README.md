@@ -22,7 +22,7 @@ Before running the script, make sure you have the following components installed
 ## Usage
 
 1. Clone this repository or download the files.
-   git clone https://github.com/your-username/repository-name.git
+   git clone https://github.com/juanchacox/Port-Scanner.git
    cd repository-name
 
 2. Run the `port_scanner.py` script with administrator privileges to get accurate results:
