@@ -46,11 +46,11 @@ The output will show:
 
 
 * Host: 140.82.116.3
-[+] Port: http
-[+] Name: open
-[+] Version: Apache 2.4.41
-[+] Product: Apache HTTPD
-[+] Extra Information: Ubuntu
+*[+] Port: http
+*[+] Name: open
+*[+] Version: Apache 2.4.41
+*[+] Product: Apache HTTPD
+*[+] Extra Information: Ubuntu
 
 
 ## Legal Considerations
