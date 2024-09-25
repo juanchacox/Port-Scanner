@@ -1,4 +1,4 @@
- <h1>Port Scanner in Python</h1>
+ <h1 align="center">Port Scanner in Python</h1>
 
 This is a basic **port scanner** developed in Python using the `nmap` library. The script allows you to scan a specific IP address across a range of ports, identifying the services running, the software version, and obtaining additional information about open ports.
 
